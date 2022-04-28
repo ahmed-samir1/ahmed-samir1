@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed samir</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Samir</h1>
 <h3 align="center">SW Testing lead from 🇪🇬</h3>
 
 - 🌱 I’m currently learning **Automation frameworks based on different technologies**
